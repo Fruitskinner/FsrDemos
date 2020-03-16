@@ -1,1 +1,2 @@
 hello
+itchat.auto_login(enableCmdQR=True)
